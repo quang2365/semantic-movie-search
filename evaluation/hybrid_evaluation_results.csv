@@ -1,0 +1,11 @@
+query_id,query,expected_movie_id,expected_title,pred_top1_movie_id,pred_top1_title,route,latency_sec,hit@1,hit@3,hit@5,hit@10,mrr
+1,"I remember a movie where along with her husband and three children, marthe lives in an eden of her own creation, nearly isolated",61222,Home,61222,Home,EASY,1.5195,1,1,1,1,1.0
+2,find a drama movie directed by Ursula Meier with Isabelle Huppert and Adélaïde Leroux,61222,Home,61222,Home,EASY,0.501,1,1,1,1,1.0
+3,movie about highway and sunscreen in a drama setting,61222,Home,2163,Breakdown,HARD,2.7046,0,0,0,0,0.0
+4,"drama film released around 2008 with plot like along with her husband and three children, marthe lives in an eden of her own creation, nearly isolated",61222,Home,61222,Home,EASY,0.7409,1,1,1,1,1.0
+5,"I remember a movie where an unprecedented series of violent tornadoes is sweeping across oklahoma. tornado chasers, headed by dr. jo harding, attempt",664,Twister,664,Twister,EASY,0.497,1,1,1,1,1.0
+6,find a action movie directed by Jan de Bont with Helen Hunt and Bill Paxton,664,Twister,664,Twister,HARD,1.9968,1,1,1,1,1.0
+7,movie about husband wife relationship and climate in a action setting,664,Twister,56418,The Source,EASY,0.5217,0,0,0,0,0.0
+8,"action film released around 1996 with plot like an unprecedented series of violent tornadoes is sweeping across oklahoma. tornado chasers, headed by dr. jo harding, attempt",664,Twister,664,Twister,EASY,0.5094,1,1,1,1,1.0
+9,I remember a movie where cuba is not a country for young gays. teen rent boy reinier falls in love with a mate,201277,The Last Match,201277,The Last Match,EASY,0.3037,1,1,1,1,1.0
+10,find a drama movie directed by Antonio Hens with Milton García and Reinier Díaz,201277,The Last Match,201277,The Last Match,HARD,1.6601,1,1,1,1,1.0

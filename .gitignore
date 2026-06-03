@@ -1,0 +1,10 @@
+.env
+__pycache__/
+venv/
+.ipynb_checkpoints/
+data/*.csv
+data/*.npy
+index/*.bin
+index/*.pkl
+index/*.sqlite
+.DS_Store
