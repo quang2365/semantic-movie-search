@@ -1,5 +1,4 @@
-<<<<<<< HEAD
- 
+
 =======
 # 🎬 Semantic Movie Search Engine (Hybrid Retrieval)
 
